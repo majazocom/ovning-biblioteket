@@ -1,4 +1,4 @@
-[
+{ "books": [
   {
     "id": 1,
     "title": "Goodnight Moon",
@@ -88,3 +88,4 @@
     "color": "#EB5757"
   }
 ]
+}
